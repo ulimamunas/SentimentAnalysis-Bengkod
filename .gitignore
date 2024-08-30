@@ -3,3 +3,6 @@ myenv/
 
 # Environment variables
 .env
+
+# Mengabaikan semua file CSV
+*.csv
