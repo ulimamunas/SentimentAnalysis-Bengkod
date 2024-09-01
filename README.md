@@ -1,7 +1,5 @@
 # Sentiment Analysis
 
-You can install these packages using the `requirements.txt` file.
-
 ## Installation
 
 1. **Clone this repository** to your local machine:
