@@ -17,8 +17,4 @@ You can install these packages using the `requirements.txt` file.
     ```bash
     myenv\Scripts\activate
 
-4. **Install the required packages** using the requirements.txt file:  
-    ```bash
-    pip install -r requirements.txt
-
 
